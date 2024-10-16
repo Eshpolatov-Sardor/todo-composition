@@ -1,3 +1,4 @@
+![{546E83E7-AB3E-4B6A-B348-E54D056E3085}](https://github.com/user-attachments/assets/09f7865b-9add-4623-b7bb-681b35d351ff)
 # vuetodocom
 
 This template should help get you started developing with Vue 3 in Vite.
